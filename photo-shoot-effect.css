@@ -1,10 +1,9 @@
-/* Reset CSS */
+
 * {
     margin: 0;
     padding: 0;
 }
 
-/* Body */
 body {
     width: 960px;
     margin: 0 auto;
@@ -13,14 +12,12 @@ body {
     background: #355664;
 }
 
-/* Headings */
 h1,
 h2,
 h3 {
     font-family: forte, Arial, sans-serif;
 }
 
-/* H1 */
 h1 {
     font-size: 50px;
     padding: 10px 0 0;
@@ -36,7 +33,6 @@ h2 {
     padding-bottom: 20px;
 }
 
-/* H3 */
 h3 {
     text-align: right;
     font-size: 30px;
@@ -44,32 +40,27 @@ h3 {
     margin: 0 0 10px;
 }
 
-/* Paragraph */
 p {
     line-height: 20px;
     padding-bottom: 5px;
     color: #94c258;
 }
 
-/* Images */
 img {
     width: 500px;
     height: 300px;
     border: none;
 }
 
-/* Article content */
 .article-content {
     margin: 15px 0;
 }
 
-/* Navigation */
 nav {
     background: #355664;
     padding: 0 5px;
 }
 
-/* Navigation links */
 nav a {
     color: #ffffff;
     margin: 5px 2px;
@@ -79,7 +70,6 @@ nav a {
     text-transform: uppercase;
 }
 
-/* Article */
 article {
     height: 390px;
     background: #213E4A;
@@ -87,7 +77,6 @@ article {
     margin: 0 0 10px;
 }
 
-/* Figure */
 figure {
     border: 3px solid #142830;
     float: right;
@@ -96,7 +85,6 @@ figure {
     margin-left: 15px;
 }
 
-/* Footer */
 footer {
     border-top: 3px solid #142830;
     padding-top: 15px;
